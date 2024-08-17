@@ -4,7 +4,7 @@ _Read this in other language: [English](README.md), [Русский](README.ru.m
 
 ## Project Description
 
-This mini-application was created according to [tutorial](https://www.youtube.com/watch?v=HQ_ytw58tC4&t=4228s ) to upgrade skills on Flutter.
+This mini-application was created according to [tutorial](https://www.youtube.com/watch?v=HQ_ytw58tC4&t=4228s ) to improve skills on Flutter.
 The To Do app has been implemented, where you can add/remove some reminders, mark them as completed and cancel this action.
 
 ## Feature List
